@@ -1,4 +1,4 @@
-# The two small projects demonstrate my knowledge and experience in using C#.
+# My knowledge and experience in using C#.
 
 The shoppingcart project is a basic command-line style project, where it allows many customer shopping interactions.
 
